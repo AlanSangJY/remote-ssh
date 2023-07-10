@@ -1,0 +1,5 @@
+total 24
+-rw-r--r--  1 alansang  staff    0 Aug 19 21:10 processBuilderResult.txt
+-rw-r--r--  1 alansang  staff  235 Aug 10 23:02 runtimeResult.txt
+-rwxr-xr-x  1 alansang  staff   68 Aug 10 23:02 shellForProcessBuilder.sh
+-rwxrwxr-x@ 1 alansang  staff   88 Aug 10 23:02 shellForRuntime.sh
